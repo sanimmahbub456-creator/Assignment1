@@ -1,4 +1,6 @@
+# Final submission version
 # AI Challenge Section – DevConf 2026
+
 This assignment allows AI usage only for one specific part of the website:  
 the placeholder section that originally said **“Something Missing? Generate a relevant section with AI.”**
 
@@ -7,7 +9,7 @@ The section below was generated using AI (ChatGPT) as required.
 
 ---
 
-##  Section Idea Chosen
+## Section Idea Chosen
 **Newsletter Signup Section**
 
 I chose this idea because it fits naturally with a tech conference website.  
@@ -16,13 +18,20 @@ A newsletter section feels relevant, useful, and visually consistent with DevCon
 
 ---
 
-##  AI Prompt Used
-This is the exact prompt I used to generate the HTML and CSS for the AI section:
+## AI Prompt Used
+
+Create a new section for my DevConf 2026 website.
+The section should be a "Newsletter Signup" area where visitors can subscribe for updates.
+Give me clean HTML and CSS that match a blue-themed conference design.
+Make the layout centered and modern.
+No lorem ipsum and no JavaScript.
+The section should visually fit with the rest of the page.
 
 
 ---
 
-##  Output Summary
+## Output Summary
+
 The AI generated:
 
 - A centered newsletter signup block  
@@ -38,7 +47,8 @@ This section replaced the placeholder exactly as required.
 
 ---
 
-##  Why This Section Fits the Assignment
+## Why This Section Fits the Assignment
+
 - It is **unique** and relevant to a developer conference  
 - It visually matches the rest of the page  
 - It uses AI only where allowed  
